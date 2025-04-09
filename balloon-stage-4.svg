@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 50% inflated balloon -->
+  <ellipse cx="100" cy="80" rx="40" ry="50" fill="#ff6b6b"/>
+  <!-- Balloon string -->
+  <path d="M100,130 C102,140 98,150 100,160" 
+        fill="none" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <!-- Balloon knot -->
+  <circle cx="100" cy="160" r="3" fill="#ff6b6b"/>
+  <!-- Highlight -->
+  <ellipse cx="85" cy="65" rx="10" ry="15" fill="#ffb8b8" opacity="0.7"/>
+  <!-- Text -->
+  <text x="100" y="180" font-family="Arial" font-size="10" text-anchor="middle" fill="#666">
+    Stage 4/8 (42%)
+  </text>
+</svg>
