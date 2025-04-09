@@ -7,7 +7,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // Bot configuration
-const TOKEN = process.env.DISCORD_BOT_TOKEN || 'MTM1OTYwNTgxOTU3MzgwMTM2Mw.G5AIhz.sQlcZDHF9Yi-Mi6J2a4XRBHqg393b6MDCMR8Ko';
+const TOKEN = process.env.DISCORD_BOT_TOKEN || 'MTM1OTYwNTgxOTU3MzgwMTM2Mw.GOyNZj.A1padETnytinOLJEN9JFKIufhS3eSt2waPni8I';
 const TRIGGER_WORD = '9z';
 const POP_THRESHOLD = 3333;
 const TOTAL_STAGES = 8;
